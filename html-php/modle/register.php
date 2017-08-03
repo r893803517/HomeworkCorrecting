@@ -21,5 +21,6 @@
 		    	onclick = "this.src = '../utils/validatepic.php?t='+Math.random()"/>
 		    	 <P>请输入验证码:<input type="text" name='authcode' value=''/></p>
 	<br />
-    <input type="Submit" name="Submit" value="注册"/>  
+    <input type="Submit" name="Submit" value="注册"/> 
+
 </form>  

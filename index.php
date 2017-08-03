@@ -12,6 +12,7 @@
 </head>
 
 <body>
+
   <div class="box">
      <div class="cnt">
         <p id="huanying"><span id="cnt_one">欢迎登录</span><span id="cnt_two" ><a href="html-php/register.php">注册</a></span></p>
